@@ -15,7 +15,7 @@
 <h2>Installation</h2>
     <p>Clone the repository:</p>
     <pre><code>
-    git clone https://github.com/yourusername/chat-application.git
+    git clone https://github.com/Dark-Programer/socket-chat-app.git
     cd chat-application
     </code></pre>
     
