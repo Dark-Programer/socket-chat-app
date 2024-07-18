@@ -83,4 +83,5 @@
     <p>Arka Chakraborty</p>
 
 <h2>Screenshots</h2>
-    <<img src="">
+    <img src="./screenshot/image1.png">
+    <img src="./screenshot/image2.png">
