@@ -16,7 +16,7 @@
     <p>Clone the repository:</p>
     <pre><code>
     git clone https://github.com/Dark-Programer/socket-chat-app.git
-    cd chat-application
+    cd socket-chat-app
     </code></pre>
     
 <p>Create a virtual environment and activate it (optional but recommended):</p>
